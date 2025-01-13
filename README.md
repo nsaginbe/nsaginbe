@@ -1,4 +1,4 @@
-<img width="75%" src='https://media1.tenor.com/m/eGyuTQF1MNsAAAAd/aaaa.gif'>
+<img width="100%" src='https://media1.tenor.com/m/eGyuTQF1MNsAAAAd/aaaa.gif'>
 
 <h1 align="center">Hi 👋, I'm Nurgisa</h1>
 <h3 align="center">Back-End Software Developer, Sophomore at SDU, Almaty ⛰️</h3>
