@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Nurgisa</h1>
 <h3 align="center">Back-End Software Developer, Sophomore at SDU, Almaty ⛰️</h3>
-<img align="right" width="400" src='https://i.gifer.com/1uHR.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsaginbe&label=wtf%20is%20this%20number&color=0e75b6&style=flat" alt="nsaginbe"/></p>
+<img align="right" width="400" src='https://i.gifer.com/1uHR.gif'>
 
 - 🌱 I’m currently learning **Hibernate, Data JPA and Spring Boot**
 
