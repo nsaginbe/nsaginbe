@@ -1,4 +1,4 @@
-<img align="top" src='https://i.gifer.com/6vC2.gif'>
+<img align="center" src='https://media1.tenor.com/m/eGyuTQF1MNsAAAAd/aaaa.gif'>
 
 <h1 align="center">Hi 👋, I'm Nurgisa</h1>
 <h3 align="center">Back-End Software Developer, Sophomore at SDU, Almaty ⛰️</h3>
