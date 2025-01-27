@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsaginbe&label=wtf%20is%20this%20number&color=0e75b6&style=flat" alt="nsaginbe"/></p>
 <img align="right" width="400" src='https://i.gifer.com/1uHR.gif'>
 
-- 🌱 I’m currently learning **Hibernate, Data JPA and Spring Boot**
+- 🌱 I’m currently learning **Hibernate, Data JPA and Spring Security**
 
 - 💬 Ask me about **Math and Java**
 
